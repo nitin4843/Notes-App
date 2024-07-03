@@ -6,8 +6,7 @@ This is a web application which helps in taking notes. It is built using MERN st
 
 1. Install Node.js on your PC.
 2. Open the folder in the editor.
-3. Go to backend folder and type these commands in the terminal.
-   - cd backend.
+3. Go to backend folder using "cd backend" command and type this command in the terminal.
    - npm install.
 4. Go to the .env file in the backend and provide the database url and secret token.
 5. Now run
@@ -17,3 +16,4 @@ This is a web application which helps in taking notes. It is built using MERN st
 7. Run these commands
    - npm install.
    - npm run dev
+8. Now go to the localhost url present in the terminal.
