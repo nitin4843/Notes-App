@@ -71,7 +71,7 @@ export default function Signup() {
                         {error && <p className="text-red-500 text-xs pb-1">{error}</p>}
                         <button className="btn-primary" type="submit">Create Account</button>
                         <p className="text-sm text-center mt-4">
-                            Already have an account?{" "}<Link to='/login' className="font-medium text-primary underline">
+                            Already have an account?{" "}<Link to='/' className="font-medium text-primary underline">
                                 Login</Link>
                         </p>
                     </form>
