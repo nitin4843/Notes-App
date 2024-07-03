@@ -13,7 +13,7 @@ This is a web application which helps in taking notes. It is built using MERN st
 5. Now run
    - node index.js
 6. Now open a new terminal window and go to frontend folder.
-   cd frontend/notes-app
+   - cd frontend/notes-app
 7. Run these commands
    - npm install.
    - npm run dev
